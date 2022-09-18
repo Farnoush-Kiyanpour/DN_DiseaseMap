@@ -1,2 +1,2 @@
 # DN_DiseaseMap
-We are here to construct diabetic nephropathy disease map!
+The main objective of our research team is to discover novel drug targets for diabetic kidney disease (DKD) based on deep learning approaches. Using different layers of omics data, we plan to reach a holistic view of the underlying mechanisms of the disease and hence translate big biological data to clinically relevant knowledge. The generation of an all-inclusive map of DKD-related processes, which is not yet comprehensively performed, is a prerequisite to reaching this aim.  These holistic map under the DMC consortium named “disease map”. In brief we will call this map “DKDm” (Diabetic kidney Disease map).
